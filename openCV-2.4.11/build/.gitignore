@@ -1,0 +1,8 @@
+/doc/
+/include/
+/python/
+/share/
+/x64/
+/x86/
+/OpenCVConfig-version.cmake
+/OpenCVConfig.cmake
